@@ -1,0 +1,11 @@
+1 6.5 Product1 Drink
+2 10 Product2 Alcohol
+3 4 Product3 Food
+4 5 Product4 Food
+5 2 Product5 Food
+6 1.99 Product6 Food
+7 15 Product7 Alcohol TRY 
+8 3.65 Product8 Alcohol
+9 7 Product9 Alcohol
+10 8 Product10 Drink GBP 
+11 12 Somon Food
